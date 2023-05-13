@@ -19,7 +19,6 @@ public class JavaApplication2 {
         System.out.println("Hello World!");
          System.out.println("...");
           System.out.println("Goodbye World!");
-           System.out.println("Poop");
     }
     
 }
